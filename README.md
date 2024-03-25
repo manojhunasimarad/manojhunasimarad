@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @manojhunasimarad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning GIT day 1
+- 🌱 I’m currently working as an Senior Engineer
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me by email or message me 0836*******
 
 <!---
 manojhunasimarad/manojhunasimarad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
