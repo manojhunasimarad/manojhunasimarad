@@ -1,125 +1,135 @@
-# Hi, I'm Manoj Hunasimarad
+<h1 align="center">Hi, I'm Manoj Hunasimarad</h1>
 
-M.Tech student in Computational and Data Science at NITK Surathkal and former Senior Software Engineer with 3+ years of experience building embedded and distributed systems for automotive platforms.
-
-My work focuses on the intersection of:
-
-• Machine Learning Systems  
-• Embedded & Edge AI  
-• GPU-accelerated machine learning  
-• Distributed systems and real-time data pipelines  
-
-I enjoy building systems that bridge **low-level hardware platforms and scalable machine learning infrastructure**.
+<p align="center">
+M.Tech (Computational & Data Science) @ NITK Surathkal  
+Former Senior Software Engineer | Embedded Systems → Machine Learning Systems
+</p>
 
 ---
 
-# Technical Interests
+## About Me
+
+I work at the intersection of **machine learning systems, embedded platforms, and distributed infrastructure**.
+
+My background includes **3+ years building automotive edge platforms**, and I am currently focused on **machine learning systems, GPU-accelerated ML, and edge AI deployment**.
+
+Areas I enjoy working on:
 
 - Machine Learning Systems
 - Generative AI
-- GPU Accelerated ML
-- Distributed Training
-- Edge AI Deployment
-- Real-time Data Systems
+- GPU Accelerated Machine Learning
+- Distributed Training Systems
+- Edge AI & Embedded ML
+- Real-time Data Pipelines
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## GPU Accelerated Heart Disease Prediction
-End-to-end ML pipeline using RAPIDS cuML and CUDA for GPU-accelerated training.
+### GPU Accelerated Heart Disease Prediction
+End-to-end ML pipeline using RAPIDS and CUDA for GPU training acceleration.
 
 Highlights:
-- Migrated scikit-learn pipeline to GPU
-- Achieved ~5× training speedup
-- Evaluated scalability using Amdahl’s Law
+- Migrated scikit-learn training pipeline to GPU using RAPIDS cuML
+- Achieved ~5× training acceleration
+- Analyzed scalability using Amdahl’s Law
 
-Repo:  
+Repository:  
 https://github.com/manojhunasimarad/heart-disease-gpu
 
 ---
 
-## Generative Adversarial Networks (GAN) Architecture Replication
-Implemented multiple GAN architectures to understand generative modeling dynamics.
+### Generative Adversarial Networks (GAN) Architecture Replication
+
+Deep learning project exploring generative models.
 
 Highlights:
-- Implemented DCGAN and Conditional GAN
-- Analyzed generator–discriminator training dynamics
-- Studied training stability and convergence behavior
+- Implemented DCGAN and Conditional GAN architectures
+- Studied generator–discriminator training dynamics
+- Evaluated convergence behavior and training stability
 
 ---
 
-## Attention-Based Handwriting Classification
-Deep learning project using transformer-based architectures to classify AI-generated vs human handwriting.
+### Attention-Based Handwriting Classification
+
+Transformer-based model to distinguish AI-generated handwriting from human handwriting.
 
 Highlights:
-- Transformer-based architecture
-- CUDA-based training acceleration experiments
+- Attention-based architecture
+- CUDA accelerated training experiments
 - Focus on generative AI detection
 
 ---
 
-## Real-Time Face Detection on Automotive SoC
-Computer vision pipeline implemented on Qualcomm SA8295 automotive platform.
+### Real-Time Face Detection on Automotive SoC
+
+Computer vision pipeline deployed on Qualcomm automotive hardware.
 
 Highlights:
 - Embedded Linux deployment
-- Real-time OpenCV inference pipeline
-- Automotive edge system validation
+- Real-time OpenCV inference
+- Edge AI system validation
 
 ---
 
-# Professional Experience
+## Professional Experience
 
-### Senior Software Engineer – KPIT Technologies
-Worked on distributed edge platforms for automotive systems.
+### Senior Software Engineer — KPIT Technologies
+
+Worked on distributed edge computing platforms for automotive systems.
 
 Key work:
-- Xen hypervisor multi-domain architectures
+
+- Xen hypervisor multi-domain systems
 - ROS2 data pipelines for vehicle telemetry
-- gRPC pipelines for cloud analytics
-- AWS EC2 distributed telemetry infrastructure
+- gRPC distributed telemetry pipelines
+- AWS EC2 integration for cloud analytics
 
 ---
 
-### Engineer – L&T Technology Services
+### Engineer — L&T Technology Services
+
 Worked on automotive SoC platform bring-up and embedded Linux development.
 
 Key work:
+
 - Qualcomm SA8295 platform bring-up
-- Yocto-based Linux stack
-- Embedded system validation pipelines
-- Build infrastructure optimization
+- Yocto-based embedded Linux stack
+- Automated validation pipelines using Python
+- Build infrastructure optimization (24h → 3h)
 
 ---
 
-# Skills
+## Technical Skills
 
-Languages  
-Python, C++, SQL
+Programming  
+Python • C++ • SQL
 
 Machine Learning  
-PyTorch, TensorFlow, scikit-learn, RAPIDS cuML, Transformers
-
-Systems  
-Linux, ROS2, AUTOSAR, Xen Hypervisor
-
-Infrastructure  
-Docker, AWS EC2, Distributed Systems, gRPC
+PyTorch • TensorFlow • scikit-learn • RAPIDS cuML • Transformers
 
 GPU Computing  
-CUDA, GPU acceleration
+CUDA • GPU acceleration
+
+Systems  
+Linux • ROS2 • AUTOSAR • Xen Hypervisor
+
+Cloud / Infrastructure  
+AWS • Docker • Kubernetes • gRPC
+
+Hardware Platforms  
+Qualcomm SA8295 • Raspberry Pi • Renesas H3ULCB
 
 ---
 
-# Publications
+## Publications
 
 Design and Modeling of Photovoltaic Based Converters for Low Power AC Systems  
-IEEE INOCON Conference 2020
+IEEE INOCON Conference, 2020
 
 ---
 
-# Connect With Me
+## Connect With Me
 
 LinkedIn  
 https://linkedin.com/in/manojhunasimarad
